@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Testear Hanafuda Koi-koi
+permalink: /testkoikoi
 ---
-
-### Testear Hanafuda Koi-koi Dojo 
 
 **1. Mandame tu email en este formulario**
 
