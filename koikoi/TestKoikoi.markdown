@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Testear Hanafuda Koi-koi (Beta)
-permalink: /koi-koi/test
+permalink: /testkoikoi
 ---
 
 **1. Mandame tu email en este formulario** [Link](https://forms.gle/P9fzi3QFEGZzNHXe7)
