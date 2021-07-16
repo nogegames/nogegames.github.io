@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Probar Hanafuda Joi-koi"
+title:  "Probar Hanafuda Koi-koi"
 date:   2021-07-16 01:37:00 +0100
 categories: cosas
 ---
