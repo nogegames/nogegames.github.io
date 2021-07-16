@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacypolicy
+permalink: /koi-koi/privacypolicy
 ---
 
 ### Hanafuda Koi-koi Dojo 

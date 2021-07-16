@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms & Conditions
-permalink: /terms
+permalink: /koi-koi/terms
 ---
 
 ### Hanafuda Koi-koi Dojo 
