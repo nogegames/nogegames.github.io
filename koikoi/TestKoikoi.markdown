@@ -12,7 +12,7 @@ Para poder darte permiso para probar la aplicación necesito tu correo electroni
 **2. Descarga la aplicación** [Link](https://play.google.com/store/apps/details?id=com.Noge.HanafudaKoikoi)
 
 Cuando te haya añadido a la lista de testers, podrás descargar la app en este enlace:
-*   [Decargar Hanafuda Koi-koi](https://play.google.com/store/apps/details?id=com.Noge.HanafudaKoikoi)
+*   [Descargar Hanafuda Koi-koi](https://play.google.com/store/apps/details?id=com.Noge.HanafudaKoikoi)
 
 **3. Reportar bugs** [Link](https://forms.gle/cTfwhmBJQQDTsoAd7)
 
