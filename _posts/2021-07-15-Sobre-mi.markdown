@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Sobre mi"
+date:   2021-07-15 01:36:00 +0100
+categories: español
+---
+
+Buenas! Soy Noge, un desarrollador de videojuegos de Reus (España).
+
+Ahora mismo, me dedico a desarrollar videojuegos a tiempo completo, yo solo, y aún estoy lejos de ganar dinero suficiente para mantenerme con esto... ¡Pero lo estoy intentando!
+
+En diciembre de 2021 publiqué mi primer juego independiente para Android: [Hanafuda Koi-koi Dojo](https://play.google.com/store/apps/details?id=com.Noge.HanafudaKoikoi). En él, puedes aprender a jugar al koi-koi con la baraja hanafuda, un juego tradicional de Japón. ¡Completa el modo aventura y enfrentate a jugadores de todo el mundo en el modo en línea!
+
+Ahora mismo tengo varios proyectos en desarrollo, mientas sigo mejorando el juego de Hanafuda. Si quieres contactarme o saber cómo van avanzando los proyectos, sígueme en mis redes sociales:
+
+Sígueme en [Twitter.com/Noge_Sky](https://twitter.com/Noge_Sky)
+
+Sigue mis directos semanales en [Twitch.tv/nogegames](https://www.twitch.tv/nogegames)
+
+Suscribete a mi [Canal de Youtube](https://www.youtube.com/channel/UCGZNJxZ_s1ONgvCER7TAGLA)
+
+Únete a mi [Servidor de Discord](https://discord.gg/s9Gs8P7xd3)
+
+
