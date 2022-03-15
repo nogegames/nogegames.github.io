@@ -1,0 +1,1 @@
+bundle exec jekyll serve - para compilarlo y verlo en localhost
