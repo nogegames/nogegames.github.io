@@ -3,6 +3,7 @@ layout: post
 title:  "Sobre mi"
 date:   2021-07-15 01:36:00 +0100
 categories: español
+published: false
 ---
 
 Buenas! Soy Noge, un desarrollador de videojuegos de Reus (España).
